@@ -1,0 +1,24 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandhyasubudhi/chai-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandhyasubudhi/chai-backend/issues"
+  },
+  "homepage": "https://github.com/sandhyasubudhi/chai-backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
